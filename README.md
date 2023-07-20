@@ -1,6 +1,9 @@
 # PharmacyFinder-ReactNative-Leaflet
 Pharmacy Finder is an application that helps users find nearby pharmacies and provides a route to the selected pharmacy. The application uses the OpenStreetMap database (Overpass-Turbo & OSRM 'Open Source Routing Machine') to find pharmacies and fetches their location information including name, address, and geographic coordinates.
 
+<b>TEAM :</br>
+EL KHALIFI Maroua
+ALAOUI MDAGHRI Niema
 
 <br>
 <br>
