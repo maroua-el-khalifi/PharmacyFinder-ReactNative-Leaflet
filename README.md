@@ -14,13 +14,13 @@ Pharmacy Finder is an application that helps users find nearby pharmacies and pr
 </picture>
 
 <h2>OverView</h2>
-<h3>Current Location</h3> <br>
+<!--<h3>Current Location</h3> <br>
 <picture>
   <img alt="map" src="https://drive.google.com/uc?id=1FBV-XlaxfsU7Xcs4A69JUmgTY8bb8rNd" height="500px">
 </picture>
 <picture>
   <img alt="map" src="https://drive.google.com/uc?id=1ZAyJzxzr0lW24B_l2F2lJuHEzJlMgz_-" height="500px">
-</picture>
+</picture>-->
 
 <h3>Find Pharmacy By Name</h3> <br>
 <picture>
